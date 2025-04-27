@@ -1,0 +1,8 @@
+{
+    "num_processos": 25,
+    "taxa_chegada": 0.8,
+    "distribuicao_execucao": "exponential",
+    "algoritmos": ["FCFS", "SJF-NP", "SJF-P", "RR"],
+    "quantum_tempo": 4,
+    "sem_visualizacao": false
+}   
